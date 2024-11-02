@@ -1,0 +1,50 @@
+start = "Chérie FM"
+
+[[playlist]]
+name = "Chante France"
+url = "http://stream1.chantefrance.com/Chante_France"
+
+[[playlist]]
+name = "Chérie FM"
+url = "http://185.52.127.163/fr/30201/mp3_128.mp3"
+
+[[playlist]]
+name = "Classic FM"
+url = "http://classicfm.ice.infomaniak.ch/classic-fm.mp3"
+
+[[playlist]]
+name = "M Radio"
+url = "http://mfm.ice.infomaniak.ch/mfm-128.mp3"
+
+[[playlist]]
+name = "Nostalgie"
+url = "http://185.52.127.132/fr/30601/mp3_128.mp3"
+
+[[playlist]]
+name = "Radio Classique"
+url = "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
+
+[[playlist]]
+name = "Radio 80"
+url = "http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3"
+
+[[playlist]]
+name = "Radio Souvenir" 
+url = "http://100radio-souvenirs.ice.infomaniak.ch/100radio-souvenirs-128.mp3"
+
+[[playlist]]
+name = "Radio Noel" 
+url = "https://www.radioking.com/play/radio-noel"
+
+[[playlist]]
+name = "RFM"
+url = "https://stream.rfm.fr/rfm.mp3"
+
+[[playlist]]
+name = "RTL"
+url = "https://icecast.rtl.fr/rtl-1-44-128"
+
+[[playlist]]
+name = "RTL2"
+url = "https://icecast.rtl2.fr/rtl2-1-44-128"
+
