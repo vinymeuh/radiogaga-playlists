@@ -48,3 +48,11 @@ url = "https://icecast.rtl.fr/rtl-1-44-128"
 name = "RTL2"
 url = "https://icecast.rtl2.fr/rtl2-1-44-128"
 
+[[playlist]]
+name = "France Inter"
+url = "http://icecast.radiofrance.fr/franceinter-midfi.mp3"
+
+[[playlist]]
+name = "Europe 1"
+url = "http://europe1.lmn.fm/europe1.mp3"
+
