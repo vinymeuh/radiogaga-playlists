@@ -1,0 +1,26 @@
+start = "Nova"
+
+[[playlist]]
+name = "Nova"
+url = "http://novazz.ice.infomaniak.ch/novazz-128.mp3"
+
+[[playlist]]
+name = "J1 Radio"
+url = "http://hits.j1fm.tokyo"
+
+[[playlist]]
+name = "Classic FM"
+url = "http://classicfm.ice.infomaniak.ch/classic-fm.mp3"
+
+[[playlist]]
+name = "Radio FG"
+url = "http://radiofg.impek.com/fg.mp3"
+
+[[playlist]]
+name = "JazzRadio Only Women"
+url = "http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3"
+
+[[playlist]]
+name = "Radio Mega Mix Japan"
+url = "https://radio.garden/api/ara/content/listen/3Zw4BXZR/channel.mp3?1731844982499"
+
